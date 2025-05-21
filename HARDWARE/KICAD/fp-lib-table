@@ -1,6 +1,7 @@
 (fp_lib_table
   (version 7)
-  (lib (name "ESP32-C3_SUPERMINI_TH")(type "KiCad")(uri "C:/Users/Martin/Documents/GitHub/mini_futbolista/ESP32-C3_SUPERMINI_TH")(options "")(descr ""))
-  (lib (name "DRV8833")(type "KiCad")(uri "C:/Users/Martin/Documents/GitHub/mini_futbolista/DRV8833")(options "")(descr ""))
-  (lib (name "mini360")(type "KiCad")(uri "C:/Users/Martin/Documents/GitHub/mini_futbolista/mini360")(options "")(descr ""))
+  (lib (name "ESP32-C3_SUPERMINI_TH")(type "KiCad")(uri "C:/Users/Martin/Documents/GitHub/mini_futbolista/LIBRERIAS/ESP32-C3_SUPERMINI_TH")(options "")(descr ""))
+  (lib (name "DRV8833")(type "KiCad")(uri "C:/Users/Martin/Documents/GitHub/mini_futbolista/LIBRERIAS/DRV8833")(options "")(descr ""))
+  (lib (name "mini360")(type "KiCad")(uri "C:/Users/Martin/Documents/GitHub/mini_futbolista/LIBRERIAS/mini360")(options "")(descr ""))
+  (lib (name "VARIOS")(type "KiCad")(uri "C:/Users/Martin/Documents/GitHub/mini_futbolista/LIBRERIAS/VARIOS")(options "")(descr ""))
 )

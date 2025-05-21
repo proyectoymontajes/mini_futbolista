@@ -64,7 +64,7 @@
 		)
 		(symbol "power_1_1"
 			(pin power_in line
-				(at -6.35 2.54 180)
+				(at -8.89 2.54 0)
 				(length 2.54)
 				(name "+IN"
 					(effects
@@ -73,7 +73,7 @@
 						)
 					)
 				)
-				(number ""
+				(number "2"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -82,7 +82,7 @@
 				)
 			)
 			(pin power_in line
-				(at -6.35 -3.81 180)
+				(at -8.89 -3.81 0)
 				(length 2.54)
 				(name "-IN"
 					(effects
@@ -91,7 +91,7 @@
 						)
 					)
 				)
-				(number ""
+				(number "1"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -100,7 +100,7 @@
 				)
 			)
 			(pin power_out line
-				(at 6.35 1.27 0)
+				(at 8.89 1.27 180)
 				(length 2.54)
 				(name "OUT_+"
 					(effects
@@ -109,7 +109,7 @@
 						)
 					)
 				)
-				(number ""
+				(number "3"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -118,7 +118,7 @@
 				)
 			)
 			(pin power_out line
-				(at 6.35 -2.54 0)
+				(at 8.89 -2.54 180)
 				(length 2.54)
 				(name "OUT_-"
 					(effects
@@ -127,7 +127,7 @@
 						)
 					)
 				)
-				(number ""
+				(number "4"
 					(effects
 						(font
 							(size 1.27 1.27)
